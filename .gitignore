@@ -1,0 +1,15 @@
+#IDE
+*.idea
+*.swp
+*~
+.DS_Store
+
+
+# Project files
+.vagrant
+.sass-cache
+nohum.out
+tmp/sass-cache/*
+src/tmp/sass-cache/*
+Gemfile.lock
+
